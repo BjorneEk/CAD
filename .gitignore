@@ -1,0 +1,4 @@
+*.o
+.clang-format
+cad
+game
